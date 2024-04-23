@@ -1,0 +1,18 @@
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .form-container {
+      display: flex;
+      align-items: center;
+    }
+
+    .form-content {
+      margin-top: 50px;
+    }
+
+    .login-image {
+      width: 100%;
+      max-width: 460px;
+    }
+  
